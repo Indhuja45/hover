@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.firstcontainer{
+    height: 100vh;
+    width: 100%;
+    background-color: grey;
+    padding-top: 100px;
+}
+.firstinnercontainer{
+    width: 90%;
+    padding: 10px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
+.firstcolumn{
+    height: 50vh;
+    width: 25%;
+    /* border: 1px solid black; */
+    background-image: url("./images/view-house-made-from-pumpkin-nature.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.firstcolumn:hover{
+    background-image: url("./images/rm222batch5-kul-04.jpg");
+    background-size: cover;
+}
+.secondcolumn{
+    height:50vh ;
+    width: 25%;
+    /* border: 1px solid black; */
+    background-image: url("./images/portrait-woman-with-fantasy-fairycore-aesthetic.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.secondcolumn:hover{
+    background-image: url("./images/73530-OEOH7V-635.jpg");
+    background-size: cover;
+}
+.thirdcolumn{
+    height: 50vh;
+    width: 25%;
+    /* border: 1px solid black; */
+    background-image: url("./images/beautiful-medieval-fantasy-landscape-with-city.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.thirdcolumn:hover{
+    background-image: url("./images/4841724.jpg");
+    background-size: cover;
+}
+.fourthcolumn{
+    height: 50vh;
+    width: 25%;
+    /* border: 1px solid black; */
+    background-image: url("./images/door-leading-magical-world.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.fourthcolumn:hover{
+    background-image: url("./images/10129432.jpg");
+    background-size: cover;
+}
+.one{
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    float: right;
+}
+.one:hover{
+    border: 1px solid blue;
+    background-color: transparent;
+}
+.two{
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    float: right;
+}
+.two:hover{
+    border: 1px solid blue;
+    background-color: transparent;
+}
+.three{
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    float: right;
+}
+.three:hover{
+    border: 1px solid blue;   
+    background-color: transparent;
+}
+.four{
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    float: right;
+}
+.four:hover{
+    border: 1px solid blue;
+    background-color: transparent;
+}
+.xx{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 300px;
+}
+.yy{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 300px;
+}
+.zz{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 300px;
+}
+.rr{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 300px;
+    border-bottom: 10px;
+}
